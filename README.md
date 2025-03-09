@@ -1,3 +1,5 @@
+Problem Statement
+
 UCI Diabetes data
 The dataset represents ten years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. Each row concerns hospital records of subjects diagnosed with diabetes, who underwent laboratory, medications, and stayed up to 14 days. The goal is to determine the early readmission of the subject within 30 days of discharge.  
 1.	Originally there are 101766 observations on 50 variables with the variables being described in the above link. (UCI repository link for full data and variable description: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008.) 
